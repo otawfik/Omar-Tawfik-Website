@@ -1,0 +1,8 @@
+title: "Omar Tawfik"
+description: "Portfolio • Projects • Experience"
+theme: minima
+
+header_pages:
+  - projects.md
+  - about.md
+  - resume.md
